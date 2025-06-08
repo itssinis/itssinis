@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hola, soy Sara Sinisterra
 
-<!--
-**itssinis/itssinis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Tecnología en Desarrollo de Software en la Universidad del Valle  
+💻 Apasionada por el desarrollo web con enfoque en frontend  
+🛠️ Tecnologías: Django · Python · HTML · CSS · Git  
+🌱 En constante aprendizaje, con interés en crear soluciones tecnológicas útiles  
+🤝 Actualmente soy monitora académica y he participado como joven embajadora  
 
-Here are some ideas to get you started:
+## 📫 Conecta conmigo
+- ✉️ saravillota729@gmail.com  
+- 🔗 [LinkedIn](www.linkedin.com/in/sarasinisterra)  
+- 🐙 [GitHub](https://github.com/itssinis)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+✨ ¡Gracias por visitar mi perfil!
