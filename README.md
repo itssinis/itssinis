@@ -1,16 +1,14 @@
-# 👋 Hola, soy Sara Sinisterra
+# 👋 Hi, I'm Sara
 
-🎓 Estudiante de Tecnología en Desarrollo de Software en la Universidad del Valle  
-💻 Apasionada por el desarrollo web con enfoque en frontend  
-🛠️ Tecnologías: Django · Python · HTML · CSS · Git  
-🌱 En constante aprendizaje, con interés en crear soluciones tecnológicas útiles  
-🤝 Actualmente soy monitora académica y he participado como joven embajadora  
+🎓 I'm currently a Software Development Technology student at Universidad del Valle.  
+💻 I'm a software developer with a strong interest in frontend development.  
+🛠️ Technologies I work with: Django | Python | HTML | CSS  
+🌱 I'm constantly learning and expanding my knowledge.
 
 ## 📫 Conecta conmigo
 - ✉️ saravillota729@gmail.com  
 - 🔗 [LinkedIn](www.linkedin.com/in/sarasinisterra)  
-- 🐙 [GitHub](https://github.com/itssinis)
 
 ---
 
-✨ ¡Gracias por visitar mi perfil!
+✨  Thanks for visiting my profile! Feel free to explore my projects and get in touch. 😊
