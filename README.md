@@ -5,7 +5,7 @@
 🛠️ Technologies I work with: Django | Python | HTML | CSS  
 🌱 I'm constantly learning and expanding my knowledge.
 
-## 📫 Conecta conmigo
+## 📫 Contact me
 - ✉️ saravillota729@gmail.com  
 - 🔗 [LinkedIn](www.linkedin.com/in/sarasinisterra)  
 
