@@ -33,7 +33,7 @@
 <h2 align="left">Contact Me</h2>
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/itssinis" target="_blank">
+  <a href="https://www.linkedin.com/in/sarasinisterra" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo" />
   </a>
 </div>
