@@ -38,5 +38,5 @@
   </a>
 </div>
 
-
+<br>
 <p align="left">✨ Thanks for visiting my profile! Feel free to explore my projects and get in touch. 😊</p>
