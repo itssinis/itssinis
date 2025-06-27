@@ -1,14 +1,14 @@
-<h1 align="left">👋 Hi, I'm Sara</h1>
+<h1 align="center">👋 Hi, I'm Sara</h1>
 
-<p align="left">I'm currently a Software Development Technology student at Universidad del Valle.</p>
+<p align="center">I'm currently a Software Development Technology student at Universidad del Valle.</p>
 
 
 <h2 align="left">About Me</h2>
 
 <p align="left">
 ✨ I'm a software developer with a strong interest in frontend development.<br>
-📚 I'm constantly learning and expanding my knowledge.<br>
-🎯 I'm currently learning AWS and Vue.js.<br>
+📚 I'm currently working on academic projects. <br>
+🎯 I'm currently learning: AWS, Docker, cloud computing and vue.js.<br>
 ✉️ You can reach me at: saravillota729@gmail.com
 </p>
 
