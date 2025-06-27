@@ -13,7 +13,8 @@
 
 <h2 style="border-bottom: none;">About Me</h2>
 
-<img align="right" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="300" height="200" alt="Coding GIF"/>
+<!-- En pantallas grandes se ve a la derecha, en móviles se centra -->
+<img align="right" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="250" height="167" alt="Coding GIF" style="max-width: 100%; height: auto; margin-left: 15px; margin-bottom: 15px;"/>
 
 🎓 Software Development Technology student at Universidad del Valle<br>
 💻 Passionate about frontend development and user experience<br>
@@ -55,7 +56,7 @@
 <h2 style="border-bottom: none;">GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itssinis&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=8&theme=dracula&hide_border=false" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itssinis&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false" style="max-width: 100%; height: auto;" alt="GitHub Stats"/>
 </div>
 
 <h2 style="border-bottom: none;">Contact Me</h2>
@@ -70,5 +71,5 @@
 <p align="center">✨ Thanks for visiting my profile! Feel free to explore my projects and get in touch. 😊</p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=100&section=footer" style="max-width: 100%; height: auto;"/>
 </div>
