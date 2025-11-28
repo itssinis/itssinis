@@ -17,9 +17,8 @@
 <img align="right" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="250" height="167" alt="Coding GIF" style="max-width: 100%; height: auto; margin-left: 15px; margin-bottom: 15px;"/>
 
 🎓 Software Development Technology student at Universidad del Valle<br>
-💻 Passionate about frontend development and user experience<br>
 📚 Currently working on academic projects and personal challenges<br>
-🌱 Learning: AWS, Docker, Cloud Computing, and Vue.js<br>
+🌱 Learning: AWS, React, Power Automate and Power Apps<br>
 ✉️ Reach me at: saravillota729@gmail.com
 
 <br clear="right"/>
@@ -35,6 +34,12 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="Vue Logo" height="40"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="MaterialUI logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" height="40" alt="Vite logo" />
 </div>
 
 <h3>Backend</h3>
@@ -65,7 +70,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="40" alt="Bitbucket logo" />  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="40" alt="Bitbucket logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="Jira logo" />
 </div>
 
 <h2 style="border-bottom: none;">GitHub Stats</h2>
