@@ -78,7 +78,11 @@
 <h2 style="border-bottom: none;">GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itssinis&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false" style="max-width: 100%; height: auto;" alt="GitHub Stats"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=itssinis&layout=compact&langs_count=8&theme=dracula&hide_border=false" 
+    alt="Top Languages" 
+    style="max-width: 100%; height: auto;"
+  />
 </div>
 
 <h2 style="border-bottom: none;">Contact Me</h2>
