@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi!+I'm+Sara+;Welcome+to+my+profile!+;&color=FF0000" />
 </h1>
 
-<h3 align="center">Passionate Software Developer | Frontend Enthusiast | Student at Universidad del Valle</h3>
+<h3 align="center">Software Developer | Student at Universidad del Valle</h3>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=itssinis&label=Profile%20views&color=ff0000&style=flat" alt="profile views" />
