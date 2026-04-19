@@ -56,6 +56,8 @@
 <h3>Cloud</h3>
 <div align="left">
 <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws logo" />
+<img width="12" />
+<img src="https://cdn.simpleicons.org/vercel/000000" height="40" alt="Vercel logo" />
 </div>
 
 <h3>Tools</h3>
@@ -79,9 +81,12 @@
 
 <div align="center">
   <img 
+    src="https://github-readme-stats.vercel.app/api?username=itssinis&show_icons=true&theme=dracula&hide_border=false&count_private=true" 
+    height="150"
+  />
+  <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=itssinis&layout=compact&langs_count=8&theme=dracula&hide_border=false" 
-    alt="Top Languages" 
-    style="max-width: 100%; height: auto;"
+    height="150"
   />
 </div>
 
