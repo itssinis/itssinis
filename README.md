@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi!+I'm+Sara+;Welcome+to+my+profile!+;&color=FF0000" />
 </h1>
 
-<h3 align="center">Software Developer | Student at Universidad del Valle</h3>
+<h3 align="center">Software Developer | Frontend | automation </h3>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=itssinis&label=Profile%20views&color=ff0000&style=flat" alt="profile views" />
@@ -16,9 +16,9 @@
 <!-- En pantallas grandes se ve a la derecha, en móviles se centra -->
 <img align="right" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="250" height="167" alt="Coding GIF" style="max-width: 100%; height: auto; margin-left: 15px; margin-bottom: 15px;"/>
 
-🎓 Software Development Technology student at Universidad del Valle<br>
+🎓 Software Development Technology <br>
 📚 Currently working on academic projects and personal challenges<br>
-🌱 Learning: AWS, React, Power Automate and Power Apps<br>
+🌱 Learning: AWS, React, n8n <br>
 ✉️ Reach me at: saravillota729@gmail.com
 
 <br clear="right"/>
