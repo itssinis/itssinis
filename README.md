@@ -16,8 +16,8 @@
 <!-- En pantallas grandes se ve a la derecha, en móviles se centra -->
 <img align="right" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="250" height="167" alt="Coding GIF" style="max-width: 100%; height: auto; margin-left: 15px; margin-bottom: 15px;"/>
 
-🎓 Software Development Technology <br>
-📚 Currently working on academic projects and personal challenges<br>
+🎓 Software Development Technologist <br>
+📚 Currently working on personal challenges<br>
 🌱 Learning: AWS, React, n8n <br>
 ✉️ Reach me at: saravillota729@gmail.com
 
